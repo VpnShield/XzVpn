@@ -2,9 +2,9 @@
 "Title": "❌   عدم عضویت در کانال تلگرام   ❌",
 "Description": "سلام کاربر گرامی 🌹\n- درصورت عضو نبودن در کانال تلگرامی این فیترشکن برای شما قطع میشود !\nبا لمس گزینه حتما عضویت وارد کانال شوید ، اجباری است 👇🏻\n(نمایش 3 بار)",
 "Link": "tg://join?invite=6G_oKEqoimY1YjQ0",
-"ColorWave": "#FFEA00",
-"Color": "#FFEA00",
-"ColorWaveTwo": "#FFFF00",
+"ColorWave": "#00E5FF",
+"Color": "#00E5FF",
+"ColorWaveTwo": "#18FFFF",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
